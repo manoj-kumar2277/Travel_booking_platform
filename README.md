@@ -155,25 +155,29 @@ data permanently stored even after program exits
     Travel Booking Platform
 
     1. Add Destination
-    <img width="516" height="314" alt="Screenshot 2026-04-03 150744" src="https://github.com/user-attachments/assets/388e2055-9155-4c11-aeb0-52578cc50a64" />
+ <img width="516" height="314" alt="Screenshot 2026-04-03 150744" src="https://github.com/user-attachments/assets/0adca232-309a-4869-9b11-dbbadaae8f90" />
 
     2. Add Route
-    <img width="436" height="340" alt="Screenshot 2026-04-03 151403" src="https://github.com/user-attachments/assets/174a5213-33fc-402e-b7bc-5352d3ceb78a" />
+<img width="436" height="340" alt="Screenshot 2026-04-03 151403" src="https://github.com/user-attachments/assets/9cf9acb2-c638-43d2-8d30-9e7ad873b15c" />
 
     3. Delete Route
-    <img width="352" height="307" alt="Screenshot 2026-04-03 151413" src="https://github.com/user-attachments/assets/0cbfb922-6dd6-4222-b48e-de3a921cdf44" />
+<img width="352" height="307" alt="Screenshot 2026-04-03 151413" src="https://github.com/user-attachments/assets/825c3014-7a21-4202-a0b6-cdf0d165f6f3" />
 
     4. Update Route
-    <img width="703" height="323" alt="Screenshot 2026-04-03 151857" src="https://github.com/user-attachments/assets/ff76f69a-6fbf-44f2-9894-2553ddfe01b9" />
+<img width="703" height="323" alt="Screenshot 2026-04-03 151857" src="https://github.com/user-attachments/assets/7a3a8cd3-89b8-41f5-8c5f-d2bd6e5951ad" />
+
 
     5. Search Route
-    <img width="561" height="295" alt="Screenshot 2026-04-03 151455" src="https://github.com/user-attachments/assets/ea80243c-597e-493e-aaab-8e980707ee0a" />
+<img width="561" height="295" alt="Screenshot 2026-04-03 151455" src="https://github.com/user-attachments/assets/157a24cc-8a46-4928-af23-07140db149f1" />
+
 
     6. Book Trip
-    <img width="526" height="386" alt="Screenshot 2026-04-03 151501" src="https://github.com/user-attachments/assets/90306bf1-7a56-4a3d-b2d8-5579869251d1" />
+ <img width="526" height="386" alt="Screenshot 2026-04-03 151501" src="https://github.com/user-attachments/assets/1dba95eb-1ea3-4b94-a09b-f844046bb676" />
+
 
     7. Display Graph
-    <img width="753" height="474" alt="Screenshot 2026-04-03 151510" src="https://github.com/user-attachments/assets/3935706d-7135-42e4-876d-f57a34ef654a" />
+<img width="753" height="474" alt="Screenshot 2026-04-03 151510" src="https://github.com/user-attachments/assets/26a2760f-2645-496f-851b-a26e5da83b31" />
+
 
     8. Exit
 <img width="518" height="243" alt="Screenshot 2026-04-03 151515" src="https://github.com/user-attachments/assets/55e1359d-85af-4e94-a0b9-92fd4e81a24c" />
